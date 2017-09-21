@@ -1,2 +1,2 @@
 # wp-Theme
-Creating wp theme.
+Creating a WP theme.
